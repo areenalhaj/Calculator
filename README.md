@@ -6,9 +6,5 @@
 <li>Java awt package</li>
 </ul>
 <hr>
-<h2>Tutorial:</h2>
-<ul>
-  <li>Dowload the BAT file to test the app.</li>
-  <li>Run the file by clicking it.</li>
-</ul>
+
 
